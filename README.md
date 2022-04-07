@@ -1,2 +1,2 @@
-# Smart-Lamp
-Smart Lamp using Arduino &amp; Python CV (manage light with using your hands)
+# Smart-Lamp (Arduino & OpenCV)
+Smart Lamp using Arduino &amp; Python OpenCV (manage light with using your hands)
