@@ -3,3 +3,7 @@ Smart Lamp using Arduino &amp; Python OpenCV (manage light using your hands)
 
 <a href="https://www.youtube.com/watch?v=7k94SBRYA-w" target="_blank">Watch Full Video</a><br>
 <img src="https://user-images.githubusercontent.com/50156227/162295312-c52c064e-934a-4a89-bec2-44b183ef161a.gif" width="400" height="300">
+
+
+https://user-images.githubusercontent.com/50156227/162324334-887a06bf-5c0e-4e4a-be15-8adf15101c99.mp4
+
