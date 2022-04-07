@@ -1,5 +1,4 @@
-# Smart-Lamp (Arduino & OpenCV)
-Smart Lamp using Arduino &amp; Python OpenCV (manage light with using your hands)
+<h1></h1>
 
 
 <iframe width="560" height="315"
