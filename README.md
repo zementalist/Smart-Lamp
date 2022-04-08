@@ -12,6 +12,5 @@ https://user-images.githubusercontent.com/50156227/162324334-887a06bf-5c0e-4e4a-
   <li>Jumper Wires</li>
 </ol>
 <h2>Circuit:</h2>
-![arduino-traffic-light](https://user-images.githubusercontent.com/50156227/162350720-deaf7657-c451-463f-b18c-8f69d6e948ca.png)
-
+<img src="https://user-images.githubusercontent.com/50156227/162350720-deaf7657-c451-463f-b18c-8f69d6e948ca.png">
 <p>Note that in Arduino Mega 2560, Pins 0-13 are PWM, but in Arduino Uno, PWM Pins are 3,5,6, 9,10,11</p>
